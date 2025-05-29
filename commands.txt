@@ -1,0 +1,20 @@
+For bulding the program go to the ns-3.32 open terminal and follow the command for bulding
+./waf
+
+
+
+and for running the programs
+
+./waf --run scratch/p2p_7
+
+
+
+
+
+
+go to netanim folder and open the terminal and follow the command
+./NetAnim
+
+
+
+Note: keep the programs in the scratch folder
