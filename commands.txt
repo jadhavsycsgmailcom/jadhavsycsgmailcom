@@ -18,3 +18,44 @@ go to netanim folder and open the terminal and follow the command
 
 
 Note: keep the programs in the scratch folder
+
+
+Practical No 2 
+
+
+ 1. ifconfig: Configure network interfaces.
+ 2. ip: Show/manipulate routing, devices, policy routing, and tunnels.
+ 3. ping: Send ICMP ECHO_REQUEST to network hosts.
+ 4. netstat: Print network connections, routing tables, interface statistics, masquerade 
+connections, and multicast memberships.
+
+ 5. traceroute: Print the route packets take to a network host.
+ 6. nslookup: Query Internet name servers interactively.
+ 7. dig: DNS lookup.
+ 8. route: Show/manipulate the IP routing table.
+ 9. arp: Manipulate the system ARP cache.
+ 10. hostname: Show or set the system's host name.
+ 11. whois: Whois query program.
+ 12. curl: Transfer a URL.
+ 13. wget: Retrieve files from the web.
+ Advanced Networking Commands
+
+ 1. ip addr: Display and modify IP addresses.
+ 2. ip link: Display and modify network interfaces.
+ 3. ip route: Display and modify the routing table.
+ 4. ip neigh: Show/manipulate the neighbor cache.
+ 5. nmcli: Command-line client for NetworkManager.
+ 6. ethtool: Display or change Ethernet device settings.
+ 7. ss: Utility to investigate sockets.
+
+
+ 8. tcpdump: Command-line packet analyzer.
+ 9. wireshark: Network protocol analyzer with a graphical interface.
+ 10. nmap: Network exploration tool and security/port scanner.
+ 11. mtr: Network diagnostic tool combining the functionality of ping and traceroute.
+ 12. iwconfig: Configure wireless network interfaces.
+ 13. iwlist: Get more detailed wireless information.
+ 14. tc: Traffic control utility.
+ 15. iftop: Display bandwidth usage on an interface.
+ 16. bmon: Bandwidth monitor and rate estimator.
+ 17. hping: TCP/IP packet assembler/analyzer.
